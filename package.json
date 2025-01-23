@@ -1,0 +1,19 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "This project is a feature-rich To-Do application built using ReactJS. It goes beyond a basic task management app by integrating external APIs, implementing advanced state management with Redux, and ensuring a responsive and user-friendly experience across devices. The app also includes a mock user authentication system to protect user data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daxprocoder/todo-list.git"
+  },
+  "author": "Daksh Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daxprocoder/todo-list/issues"
+  },
+  "homepage": "https://github.com/daxprocoder/todo-list#readme"
+}
